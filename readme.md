@@ -34,6 +34,4 @@ Then run the compiled binary:
 
 ## Gameplay Notes
 
-- Aces count as 11 unless that would bust the hand, then they count as 1.
-- The dealer draws until reaching at least 17.
 - The game includes simple Perfect Pair and 21+3 side bet checks.
