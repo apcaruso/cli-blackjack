@@ -1,0 +1,21 @@
+# Compiled binary for this project
+/blackjack
+
+# Go build and test output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.out
+
+# Temporary files
+tmp/
+*.tmp
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
